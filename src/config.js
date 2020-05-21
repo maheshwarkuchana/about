@@ -1,26 +1,26 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Maheshwar Kuchana | AI Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Maheshwar Kuchana is an AI & Computer Vision Engineer based in India, skills specializing in image processing, medical image processing, deep learning, machine learning and python',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Maheshwar Kuchana, Maheshwar, Kuchana, maheshwark, AI engineer, deep learning engineer, machine learning engineer, computer vision, bml munjal university',
+  siteUrl: 'https://maheshwark.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-137579188-4',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Maheshwar Kuchana',
+  location: 'Hyderabad, India',
+  email: 'kmaheshwar1998@gmail.com',
+  github: 'https://github.com/maheshwarkuchana',
+  twitterHandle: '@kmaheshwar1998',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/maheshwarkuchana',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/maheshwarkuchana/',
     },
     {
       name: 'Codepen',
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/maheshwar_kuchana/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/kmaheshwar1998',
     },
   ],
 
