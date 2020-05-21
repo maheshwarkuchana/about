@@ -1,7 +1,7 @@
 ---
 date: '2019-05-21'
 title: 'Deep Learning & Computer Vision Intern'
-company: 'Adventum Advanced Solutions Pvt Ltd'
+company: 'Adventum'
 location: 'Bangalore, India'
 range: 'May 2019 - Present'
 url: 'https://www.ophtalma.com/'
