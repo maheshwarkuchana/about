@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Maheshwar Kuchana'
+subtitle: 'I build AI for the Healthcare.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm an AI & Computer Vision Engineer based in India, skills specializing in image processing, medical image processing, deep learning, machine learning and python.
