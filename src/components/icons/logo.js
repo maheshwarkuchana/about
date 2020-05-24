@@ -3,9 +3,20 @@ import React from 'react';
 const IconLogo = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
     <title>Logo</title>
-    <g>
+    <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
-        <path
+        <polygon
+          id="Shape"
+          stroke="currentColor"
+          strokeWidth="5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+          points="39 0 0 22 0 67 39 90 78 68 78 23"
+        />
+        </g>
+    </g>
+    <g transform="translate(-8.000000, -2.000000)">
+    <path
           d="M 30.00,64.25
           C 36.00,36.00 35.50,36.00 38.25,36.00
             41.00,36.00 43.88,35.25 44.25,38.25
@@ -24,18 +35,9 @@ const IconLogo = () => (
             42.25,47.88 41.75,41.50 40.00,47.50
             39.25,53.88 39.62,53.75 38.38,61.62
             37.50,64.75 39.25,64.25 34.75,64.25M 113.75,45.00"
-          fill="currentColor"
+            fill="currentColor"
         />
-        <polygon
-          id="Shape"
-          stroke="currentColor"
-          strokeWidth="5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          points="39 0 0 22 0 67 39 90 78 68 78 23"
-        />
-      </g>
-    </g>
+        </g>
   </svg>
 );
 
