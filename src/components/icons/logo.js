@@ -3,8 +3,8 @@ import React from 'react';
 const IconLogo = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
     <title>Logo</title>
-    <g transform="translate(-8.000000, -2.000000)">
-      <g>
+    <g>
+      <g transform="translate(11.000000, 5.000000)">
         <path
           d="M 30.00,64.25
           C 36.00,36.00 35.50,36.00 38.25,36.00
