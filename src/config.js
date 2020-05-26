@@ -23,8 +23,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/maheshwarkuchana/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'StackOverflow',
+      url: 'https://stackoverflow.com/users/8819461/maheshwar-kuchana',
     },
     {
       name: 'Instagram',
