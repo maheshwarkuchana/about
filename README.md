@@ -8,7 +8,7 @@
   The fourth iteration of <a href="https://maheshwark.com" target="_blank">maheshwark.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![demo](https://github.com/maheshwarkuchana/portfolio/blob/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
