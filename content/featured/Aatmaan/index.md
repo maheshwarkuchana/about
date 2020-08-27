@@ -7,7 +7,7 @@ external: '#'
 tech:
   - Django
   - Python
-  - HTML/CSS
+  - AI
 showInProjects: true
 ---
 

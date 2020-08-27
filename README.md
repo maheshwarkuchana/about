@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://github.com/maheshwarkuchana/about/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  maheshwark.com - v4
+  maheshwark.com - v1.0.1
 </h1>
 <p align="center">
   The fourth iteration of <a href="https://maheshwark.com" target="_blank">maheshwark.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
