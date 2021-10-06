@@ -3,13 +3,13 @@ module.exports = {
   siteDescription:
     'Maheshwar Kuchana is an AI & Computer Vision Engineer based in India, skills specializing in image processing, medical image processing, deep learning, machine learning and python',
   siteKeywords:
-    'Maheshwar Kuchana, Maheshwar, Kuchana, maheshwark, AI engineer, deep learning engineer, machine learning engineer, computer vision, bml munjal university',
+    'Maheshwar Kuchana, Maheshwar, Kuchana, maheshwark, AI engineer, deep learning engineer, machine learning engineer, computer vision, bml munjal university, kings college london, london, kcl, flask, warangal, image processing, healthcare technologies',
   siteUrl: 'https://maheshwark.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-137579188-4',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Maheshwar Kuchana',
-  location: 'Hyderabad, India',
+  location: 'London, United Kingdom',
   email: 'kmaheshwar1998@gmail.com',
   github: 'https://github.com/maheshwarkuchana',
   twitterHandle: '@kmaheshwar1998',
@@ -58,9 +58,9 @@ module.exports = {
   navHeight: 100,
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#9976ff',
+    navy: '#0f0f0f',
+    darkNavy: '#000000',
   },
 
   srConfig: (delay = 200) => ({
