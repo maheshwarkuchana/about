@@ -1,7 +1,7 @@
 ---
 title: "Hi, I'm"
 name: "Maheshwar Kuchana"
-subtitle: "I build AI for the Healthcare."
+subtitle: "I build AI for Healthcare & Fintech"
 buttonText: "Get In Touch"
 ---
 

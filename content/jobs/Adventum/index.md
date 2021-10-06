@@ -4,7 +4,7 @@ title: 'AI Engineer'
 company: 'Adventum'
 location: 'Bangalore, India'
 range: 'May 2019 - September 2020'
-url: 'https://adventum.ch/'
+url: 'https://www.linkedin.com/company/adventumswiss/'
 ---
 
 - AI for Disease Diagnosis (Diabetic Retinopathy, Glaucoma, AMD) using OCT, Fundus images in

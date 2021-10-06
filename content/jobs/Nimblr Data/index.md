@@ -1,10 +1,10 @@
 ---
-date: '2021-01-19'
-title: 'Machine Learning Engineer'
-company: 'Scienaptic AI'
-location: 'Bangalore, India'
-range: 'October 2020 - January 2021'
-url: 'https://www.scienaptic.ai/'
+date: '2021-10-06'
+title: 'Product Manager & AI Engineer'
+company: 'Nimblr Data'
+location: 'London, UK'
+range: 'July 2021 - Present'
+url: 'https://nimblrdata.com/'
 ---
 
 - Developed AI-based solution for document understanding for Credit Underwriting problem.     

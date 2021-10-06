@@ -1,6 +1,6 @@
 ---
-title: 'About Me'
-avatar: './me.png'
+title: "About Me"
+avatar: "./me.png"
 skills:
   - Deep Learning
   - Computer Vision
@@ -10,7 +10,7 @@ skills:
   - AWS
 ---
 
-Hello! I'm Maheshwar, an AI Engineer based in Hyderabad, India.
+Hello! I'm Maheshwar, an AI Engineer based in London, UK.
 
 I enjoy creating things that live on the real world, whether that be AI models, applications, or anything in between. My goal is to always build products that provide robust, practical, real-time experiences.
 
